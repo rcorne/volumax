@@ -1,0 +1,15 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Credenciales — nunca subir
+client_secret*.json
+token.json
+google-ads.yaml
+
+# Datos y reportes
+*.xlsx
+*.xls
+*.csv
